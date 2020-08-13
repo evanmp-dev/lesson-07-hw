@@ -19,21 +19,12 @@ header {
   margin-bottom: 0;
   background-color: #03a3df;
   padding: 50px;
-  text-align: left;
+  text-align: center;
   color: white;
   left: 0;
   bottom: 0;
   width: 100%;
   position: static;
-}
-
-nav {
-  width: 100%;
-  background: lightgrey;
-  padding: 10px;
-  float: left;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
 }
 
 body {
