@@ -1,0 +1,52 @@
+.container {
+  clear: both;
+  margin-bottom: 0;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+header {
+  clear: both;
+  margin-bottom: 0;
+  background-color: #03a3df;
+  padding: 50px;
+  text-align: left;
+  color: white;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: static;
+}
+
+nav {
+  width: 100%;
+  background: lightgrey;
+  padding: 10px;
+  float: left;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+}
+
+footer {
+  clear: both;
+  margin-bottom: 0;
+  text-align: center;
+  color: black;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
