@@ -52,3 +52,8 @@ aside {
   width: 35%;
   margin: 5px 50px;
 }
+
+video {
+  margin-left: 50vw;
+  transform: translate(-50%);
+}
