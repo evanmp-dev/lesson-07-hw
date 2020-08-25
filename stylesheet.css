@@ -47,6 +47,13 @@ section {
   margin: 5px 50px;
 }
 
+#right {
+  float: left;
+  width: 90%;
+  padding:50px;
+  margin: 5px 50px;
+}
+
 aside {
   float: right;
   width: 35%;
