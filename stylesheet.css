@@ -12,6 +12,16 @@
   font-style: italic;
 }
 
+.hidden {
+  position: relative;
+  left: -10000px;
+  top: auto;
+}
+
+.hidden:focus {
+  left: 0;
+}
+
 header {
   clear: both;
   margin-bottom: 0;
@@ -23,6 +33,11 @@ header {
   bottom: 0;
   width: 100%;
   position: static;
+}
+
+header a {
+  padding: .5rem;
+  margin: .5rem;
 }
 
 body {
